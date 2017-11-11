@@ -1,0 +1,3 @@
+when we init a repository, it install all git files to control versions
+it have some differences: The staging area allow us to practice and create new code, the working directory is where I got the code and it could have tested code and the repository is where the code is stored.
+
