@@ -1,3 +1,6 @@
 when we init a repository, it install all git files to control versions
 it have some differences: The staging area allow us to practice and create new code, the working directory is where I got the code and it could have tested code and the repository is where the code is stored.
+Comparing the staging area with the most recent repository I could see the differences and ensure myself to make a commit
+Branches are helpful when we need to implement new features and we don't know to include them into the master, when a team have some different ideas, they could implement them on different branches to obtain multiple versions
+Diagrams helps me showing all branches and commits to locate how many and what could have
 
