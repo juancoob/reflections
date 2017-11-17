@@ -3,4 +3,6 @@ it have some differences: The staging area allow us to practice and create new c
 Comparing the staging area with the most recent repository I could see the differences and ensure myself to make a commit
 Branches are helpful when we need to implement new features and we don't know to include them into the master, when a team have some different ideas, they could implement them on different branches to obtain multiple versions
 Diagrams helps me showing all branches and commits to locate how many and what could have
+The result merging two branches together is having a new code to get all functionalities. This diagram is like a tree or octopus, that's why draw it like this
+Automatic merging make things easier to have the code updated with the merge, but it could bring useless code like block codes we just remove becaue the other branch din't, but manual mergin on one hand is a harder task because we need to marge manually all the changes, but in other hand we know what to inlude in the final code.
 

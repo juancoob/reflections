@@ -1,6 +1,6 @@
 You could see the differences to locate them
 Because I could see the progress and changes of this file
-awesome
+Using log to see all the changes
 Because Git stores all our selected work when we need to commit it, and google drive only works with single files
 I can use git log to see the commits ids and then use git diff to see the differences between them
 Because I could come back and find out the differences
