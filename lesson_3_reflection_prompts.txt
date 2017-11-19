@@ -12,4 +12,8 @@
     Clones: It can be done on local and it's for cloning a repository with their branches. I'll use it it to clone repositories on my local.
     Branches: It can be done on local and Github, and it's designed to create new features without modifying the master branch. I'll will use it to develop new features to leave the master stable.
     
+4. What is the benefit of having a copy of the last known state of the remote stored locally?
+
+    I could have a backup of the files or get my code updated
+    
 
