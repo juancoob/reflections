@@ -16,4 +16,8 @@
 
     I could have a backup of the files or get my code updated
     
+5.How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+    Maybe using dropbox, drive or gmail... And it woud be harder because git could help a lot instead of those services
+    
 
